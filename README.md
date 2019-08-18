@@ -5,8 +5,8 @@
 - Files from `sass/main.sass` will be compiled into `css/styles.css`
 
 ### Updates to add
-- [ ] Breakpoints
-- [ ] Breakpoint mixin
+- [x] Breakpoints
+- [x] Breakpoint mixin
 - [x] `box-sizing: border-box`
 - [ ] Spacing
 - [ ] Typography

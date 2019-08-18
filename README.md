@@ -10,4 +10,3 @@
 - [x] `box-sizing: border-box`
 - [x] Spacing
 - [ ] Typography
-- [ ] More directories i.e. `/img/`

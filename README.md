@@ -7,7 +7,7 @@
 ### Updates to add
 - [ ] Breakpoints
 - [ ] Breakpoint mixin
-- [ ] `box-sizing: border-box`
+- [x] `box-sizing: border-box`
 - [ ] Spacing
 - [ ] Typography
 - [ ] More directories i.e. `/img/`

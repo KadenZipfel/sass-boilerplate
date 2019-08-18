@@ -8,6 +8,6 @@
 - [x] Breakpoints
 - [x] Breakpoint mixin
 - [x] `box-sizing: border-box`
-- [ ] Spacing
+- [x] Spacing
 - [ ] Typography
 - [ ] More directories i.e. `/img/`

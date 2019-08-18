@@ -9,4 +9,4 @@
 - [x] Breakpoint mixin
 - [x] `box-sizing: border-box`
 - [x] Spacing
-- [ ] Typography
+- [x] Typography
